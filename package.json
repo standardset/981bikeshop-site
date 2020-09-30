@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/standardset/981bikeshop-site#readme",
   "dependencies": {
+    "bootstrap": "^4.5.2",
+    "grunt": "^1.3.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-qunit": "^4.0.0",
+    "grunt-contrib-uglify": "^5.0.0",
+    "grunt-contrib-watch": "^1.1.0",
     "sass": "^1.26.11"
   }
 }
